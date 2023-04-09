@@ -6,7 +6,7 @@ This is a Django-based CRUD (Create, Read, Update, Delete) system that allows us
 
 ## Features
 - Create, Read, Update, and Delete items from the database
-- User authentication and authorization using Django's
+- later on I will implement  user-authentication and user-authorization using Django's
     built-in authentication system
 - Responsive user interface using Bootstrap
 
